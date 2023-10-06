@@ -46,8 +46,6 @@ Thumbs.db
 
 
 back/__pycache__/
-back/modelos/__pycache__/
 back/venv/
-back/vistas/__pycache__/
 front/dist/
 front/node_modules/
